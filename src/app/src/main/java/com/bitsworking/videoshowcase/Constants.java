@@ -7,7 +7,7 @@ public interface Constants {
     static final String SD_DIRECTORY_VIDEOS = "/VIDEOSHOWCASE";
     static final String PASSWORD_EXIT = "medex14";
 
-    static final String LINK_SPENDEN = "https://www.aerzte-ohne-grenzen.at/spenden";
+    static final String LINK_SPENDEN = "https://www.aerzte-ohne-grenzen.at/videoshowcase-spenden";
     static final String LINK_NEWSLETTER = "https://www.aerzte-ohne-grenzen.at/newsletter/newsletter-abonnieren";
     static final String LINK_BREAKTHESILENCE = "http://www.break-the-silence.at";
 
