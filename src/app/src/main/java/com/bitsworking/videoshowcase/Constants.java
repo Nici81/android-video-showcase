@@ -7,9 +7,9 @@ public interface Constants {
     static final String SD_DIRECTORY_VIDEOS = "/VIDEOSHOWCASE";
     static final String PASSWORD_EXIT = "medex14";
 
-    static final String LINK_SPENDEN = "https://www.aerzte-ohne-grenzen.at/spenden";
-    static final String LINK_NEWSLETTER = "https://www.aerzte-ohne-grenzen.at/newsletter/newsletter-abonnieren";
-    static final String LINK_BREAKTHESILENCE = "http://www.break-the-silence.at";
+    static final String LINK_SPENDEN = "https://www.aerzte-ohne-grenzen.at/videoshowcase-spenden";
+    static final String LINK_NEWSLETTER = "https://www.aerzte-ohne-grenzen.at/videoshowcase-nl";
+    static final String LINK_BREAKTHESILENCE = "https://www.aerzte-ohne-grenzen.at/videoshowcase-link";
 
     static final Boolean KIOSK_MODE_DISALLOW_APP_SWITCHING = true;
     static final Boolean KEEP_SCREEN_ON = true;
